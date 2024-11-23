@@ -1,1 +1,1 @@
-Discord token grabber, working on Linux might work on windows
+Discord token grabber, working on Linux
